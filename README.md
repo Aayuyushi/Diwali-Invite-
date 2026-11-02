@@ -1,5 +1,3 @@
-# Diwali party invite (React + Vite)
-TO be added : a photowall.
 # 🪔 Diwali Party Invite
 
 A mobile-first (mobile only), interactive invite for hosting my first-ever Diwali night: Indian food, board games and good company. 
